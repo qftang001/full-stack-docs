@@ -52,5 +52,5 @@ export default defineConfig({
       }
     }
   },
-  base: "full-stack-docs"
+  // base: "full-stack-docs"
 })
